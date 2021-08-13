@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Thahmidul-Islam-Nafi
-- 👀 I’m interested in Machine Learning, Computer Vision, Mechatronics and Robotics. 
+- Hello, I’m @Thahmidul-Islam-Nafi
+- I’m interested in Machine Learning, Computer Vision, Mechatronics and Robotics. 
 - My repositories contain certain backend, frontend and machine learning projects.
 
 
