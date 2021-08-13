@@ -1,5 +1,5 @@
 - Hello, I’m @Thahmidul-Islam-Nafi
-- I’m interested in Machine Learning, Computer Vision, Mechatronics and Robotics. 
+- My Field of Interests are Machine Learning, Computer Vision, Mechatronics and Robotics. 
 - My repositories contain certain backend, frontend and machine learning projects.
 
 Link to my Machine Learning, OCR, Electronics and Python project Repository - https://github.com/Thahmidul-Islam-Nafi/Project-Repo 
