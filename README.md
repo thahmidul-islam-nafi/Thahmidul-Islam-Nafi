@@ -1,4 +1,4 @@
-- Hello, I’m @Thahmidul-Islam-Nafi
+- Hello, I’m Thahmidul-Islam-Nafi
 - My Field of Interests are Machine Learning, Computer Vision, Mechatronics and Robotics. 
 - My repositories contain certain backend, frontend and machine learning projects.
 
