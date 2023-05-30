@@ -4,7 +4,7 @@
 
 Link to my Machine Learning, OCR, Electronics and Python project Repository - https://github.com/Thahmidul-Islam-Nafi/Project-Repo 
 
-Link to my Minesweeper clone using React - https://react-minesweeper-version46.herokuapp.com/
+Link to my Minesweeper clone using React - [Reactsweeper](https://reactsweeperjunenonredux-production.up.railway.app/)
 
 Personal Portfolio Website (being continuously updated) - https://thahmidul-islam-nafi-portfolio.herokuapp.com/
 <!---
