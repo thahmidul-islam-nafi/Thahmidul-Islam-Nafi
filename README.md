@@ -1,5 +1,5 @@
 - Hello, I’m Thahmidul-Islam-Nafi
-- I am an Electronics Engineer (VLSI Physical Design) with versatile interests. 
+- I am an Electronics Engineer (ASIC Physical Design, VLSI) with versatile interests. 
 - My repositories contain certain backend, frontend and machine learning projects.
 
 Link to my Machine Learning, OCR, Electronics and Python project [Repository](https://github.com/Thahmidul-Islam-Nafi/Project-Repo) 
