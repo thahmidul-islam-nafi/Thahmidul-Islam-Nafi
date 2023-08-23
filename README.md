@@ -5,7 +5,7 @@
 
 Link to my Machine Learning, OCR, Electronics and Python project [Repository](https://github.com/Thahmidul-Islam-Nafi/Project-Repo) 
 
-Link to my Minesweeper clone using React - [Reactsweeper]([https://reactsweeperjunenonredux-production.up.railway.app/](https://react-sweeper-non.onrender.com)
+Link to my Minesweeper clone using React - [Reactsweeper](https://react-sweeper-non.onrender.com)
 
 <!---
 Thahmidul-Islam-Nafi/Thahmidul-Islam-Nafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
