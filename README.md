@@ -12,6 +12,7 @@ Link to my Minesweeper clone using React - [Reactsweeper](https://react-sweeper-
 ### Hardware Description Languages & EDA
 ![Verilog](https://img.shields.io/badge/-Verilog-lightgrey?style=for-the-badge&logo=v&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/-SystemVerilog-grey?style=for-the-badge&logo=v&logoColor=white)
+![PnR Tools](https://img.shields.io/badge/-Innovus-025E8C?style=for-the-badge)
 ![OpenROAD](https://img.shields.io/badge/-OpenROAD_EDA-blue?style=for-the-badge)
 ![OpenRAM](https://img.shields.io/badge/-OpenRAM-orange?style=for-the-badge)
 ![SPICE](https://img.shields.io/badge/-SPICE-red?style=for-the-badge)
