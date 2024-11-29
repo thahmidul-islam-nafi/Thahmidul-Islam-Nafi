@@ -1,7 +1,7 @@
 - Hello, I’m Thahmidul-Islam-Nafi
 - I am an Electronics Engineer (ASIC Physical Design) with multidisciplinary interests.
 - Other than VLSI and Circuit Design, my interests include CAD, Computer Vision, and Embedded Systems.  
-- My repositories currently contain certain Physical Design (ASAP7 PDK), Backend, Frontend and Machine learning projects.
+- My repositories currently contain certain Physical Design (ASAP7 PDK), Arduino, Backend, Frontend and Machine learning projects.
 
 Refer to my [Personal Website](https://thahmidul-islam-nafi.github.io) for the list of my GitHub hosted projects and my Research and Publications.  
 
