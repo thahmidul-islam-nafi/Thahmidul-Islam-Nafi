@@ -3,7 +3,7 @@
 - Other than VLSI and Circuit Design, my interests include CAD, Computer Vision, and Embedded Systems.  
 - My repositories currently contain certain Physical Design (ASAP7 PDK), Backend, Frontend and Machine learning projects.
 
-Link to my Machine Learning, OCR, Electronics and Python projects [Repository](https://github.com/Thahmidul-Islam-Nafi/Project-Repo) 
+Refer to my [Personal Website](https://thahmidul-islam-nafi.github.io) for the list of my GitHub hosted projects and my Research and Publications.  
 
 Link to my Minesweeper clone using React - [Reactsweeper](https://react-sweeper-non.onrender.com)
 
